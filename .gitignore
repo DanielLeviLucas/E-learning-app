@@ -82,8 +82,6 @@ ipython_config.py
 #   https://pdm.fming.dev/#use-with-ide
 .pdm.toml
 
-Pipfile
-
 __pypackages__/
 
 # Celery stuff
