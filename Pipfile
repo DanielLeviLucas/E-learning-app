@@ -10,6 +10,7 @@ django-braces = "*"
 django-embed-video = "*"
 python-memcached = "==1.59"
 django-memcache-status = "==2.2"
+djangorestframework = "*"
 
 [dev-packages]
 autopep8 = "*"
