@@ -11,6 +11,7 @@ django-embed-video = "*"
 python-memcached = "==1.59"
 django-memcache-status = "==2.2"
 channels = "*"
+channels-redis = "*"
 
 [dev-packages]
 autopep8 = "*"
