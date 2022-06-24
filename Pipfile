@@ -12,6 +12,7 @@ python-memcached = "==1.59"
 django-memcache-status = "==2.2"
 channels = "*"
 channels-redis = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 autopep8 = "*"
